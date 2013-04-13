@@ -32,4 +32,4 @@ if __name__ == '__main__':
 # If it compiles with no mistake, we're good.    
 
 #unittest
-#Run gcd_test.py
+#Run divisor_test.py
